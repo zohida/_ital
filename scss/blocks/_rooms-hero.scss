@@ -1,0 +1,37 @@
+
+
+.rooms-hero__title {
+   
+    margin: 0;
+    margin-top: 5px;
+    margin-bottom: 50px;
+    color: #424242;
+    font-size: 46px;
+    font-weight: 600;
+}
+
+@media only screen and (max-width:576px) {
+    .rooms-hero {
+        margin: 0 auto;
+    }
+
+    .rooms-hero__title {
+        margin-top: 23px;
+        margin-bottom: 40px;
+        font-size: 25px;
+    }
+
+    .rooms-hero__pic {
+        width: 100%;
+        background-size: cover;
+    }
+
+
+    .rooms-hero__img {
+        width: 100%;
+        min-width: 300px;
+        height: 200px;
+    }
+    
+}
+

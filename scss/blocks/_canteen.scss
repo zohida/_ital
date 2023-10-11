@@ -1,0 +1,82 @@
+.canteen__inner {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 144px;
+}
+
+.canteen__text{
+    margin: 0;
+    color: #424242;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%; 
+}
+
+.canteen__wrapper {
+    display: flex;
+    align-items: flex-end;
+    gap: 40px;
+    margin-bottom: 140px;
+}
+
+.canteen__picture:nth-child(3) {
+    display: none;
+}
+
+.canteen__title-wrapper {
+    width: 100%;
+    max-width: 762px;
+}
+
+.canteen__title {
+    margin: 0;
+    margin-bottom: 40px;
+    color: #424242;
+    font-size: 46px;
+    font-weight: 600;
+}
+
+.canteen__desc {
+    margin: 0;
+    margin-bottom: 50px;
+    color: #424242;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.canteen__pics {
+    display: flex;
+    gap: 40px;
+}
+
+.canteen__hall {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 50px;
+}
+
+.canteen__hall-title {
+    margin: 0;
+    margin-bottom: 40px;
+    color: #424242;
+    font-size: 46px;
+    font-weight: 600;
+}
+
+.canteen__hall-text {
+    margin: 0;
+    padding: 0 7px;
+    margin-bottom: 10px;
+    color: #424242;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.canteen__hall-box {
+    text-align: center;
+    margin-bottom: 120px;
+}
